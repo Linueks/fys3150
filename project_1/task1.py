@@ -67,6 +67,10 @@ def general_tridiagonal(x, n):
     return solution
 
 
+def specialized_tridiagonal(x, n):
+    return
+
+
 def relative_error_calc(x, n, numerical_solution):
 
 
